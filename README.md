@@ -20,4 +20,4 @@ In this practice we focused on two important aspects of front-end development:
 
 All the icons in the page are from [flaticon.es](https://www.flaticon.es/)
 
-The collapsible objects are made with code from [w3 schools](https://www.w3schools.com/)
+The collapsible objects are made with JavaScript code from [w3 schools](https://www.w3schools.com/)
