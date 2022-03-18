@@ -14,7 +14,7 @@ In this practice we focused on two important aspects of front-end development:
 
   2. CSS. After writing the HTML the next step was to style it, and the goal was to get as close to the original design as possible.
 
-![web-page final result](./docs/webpage.png)
+![web-page final result](./docs/webpage.jpeg)
 
 ### Credits
 
